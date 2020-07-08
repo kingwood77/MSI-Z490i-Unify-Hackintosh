@@ -11,9 +11,9 @@ GPU: Gigabyte AMD RX580
 
 
 BIOS setting (BIOS Version 1.0) change from default:        
-Onboard CNVI Module Control: Disable
-CFG Lock: Disable
-XMP: Enable
+Onboard CNVI Module Control: Disable        
+CFG Lock: Disable       
+XMP: Enable       
 IGD MULTI-Monitor: Enable       
 
 What not working:       
