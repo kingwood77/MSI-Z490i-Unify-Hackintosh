@@ -16,9 +16,9 @@ CFG Lock: Disable
 XMP: Enable       
 IGD MULTI-Monitor: Enable       
 
-What not working:       
+Not working:       
 sleep. When slept, cann't wake up, and when press power button lead to reboot.
 
-Not test:       
+Not testing:       
 Thunderbolt 3, Type-C
 
