@@ -17,7 +17,7 @@ XMP: Enable
 IGD MULTI-Monitor: Enable       
 
 What not working:       
-sleep. When sleeped, cann't wake up, and when press power button lead to reboot.
+sleep. When slept, cann't wake up, and when press power button lead to reboot.
 
 Not test:       
 Thunderbolt 3, Type-C
