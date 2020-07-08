@@ -8,7 +8,7 @@ Ram: T.Force Darkz DDR4 3600Mhz 8G*2 XMP2.0
 CPU: Intel i5-10400    
 NVME: Samsung 970 EVO 500G    
 WIFI/BT: BCM94352HMB + M.2 Key_B to minipcie    
-GPU: Gigabyte AMD RX580    
+GPU: Gigabyte AMD RX580 8GB    
 
 
 BIOS setting (BIOS Version 1.0) change from default:        
