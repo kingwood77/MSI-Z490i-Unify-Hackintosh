@@ -1,5 +1,5 @@
 # MSI-Z490i-Unify-Hackintosh
-OC 0.5.9  Catalina 10.15.5
+OC 0.5.9        Catalina 10.15.5
 
 Hardware:       
 Mainboard: MSI Z490i Unify  
