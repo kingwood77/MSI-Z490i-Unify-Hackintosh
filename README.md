@@ -1,8 +1,7 @@
 # MSI-Z490i-Unify-Hackintosh
 OC 0.5.9
 
-Hardware:
-
+Hardware:       
 Mainboard: MSI Z490i Unify  
 Ram: T.Force Darkz DDR4 3600Mhz 8G*2 XMP2.0       
 CPU: Intel i5-10400    
@@ -11,19 +10,15 @@ WIFI/BT: BCM94352HMB + M.2 Key_B to minipcie
 GPU: Gigabyte AMD RX580    
 
 
-BIOS setting (BIOS Version 1.0) change from default:
-
+BIOS setting (BIOS Version 1.0) change from default:        
 Onboard CNVI Module Control: Disable
 CFG Lock: Disable
 XMP: Enable
-IGD MULTI-Monitor: Enable
+IGD MULTI-Monitor: Enable       
 
-
-What not working:
-
+What not working:       
 sleep. When sleeped, cann't wake up, and when press power button lead to reboot.
 
-Not test:
-
+Not test:       
 Thunderbolt 3, Type-C
 
