@@ -12,6 +12,7 @@ GPU: Gigabyte AMD RX580
 
 
 BIOS setting, change from default:
+
 BIOS Version 1.0
 
 Onboard CNVI Module Control: Disable
